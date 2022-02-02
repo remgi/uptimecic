@@ -11,6 +11,8 @@ sites:
     url: https://analisis.civix.mx
   - name: Sitio CIC
     url: https://cic.mx
+  - name: Libres de Extorsion
+    url: https://libresdeextorsion.mx
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
