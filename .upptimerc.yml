@@ -5,10 +5,10 @@ repo: upptime # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  - name: CRM CIVIX
+    url: https://crm.civix.mx
   - name: Analisis CIC
-    url: https://analisis.cic.mx
+    url: https://analisis.civix.mx
   - name: Sitio CIC
     url: https://cic.mx
 
