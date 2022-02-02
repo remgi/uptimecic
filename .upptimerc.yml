@@ -7,12 +7,21 @@ sites:
     url: https://www.google.com
   - name: CRM CIVIX
     url: https://crm.civix.mx
+  - name: ADMIN CIVIX
+    url: https://admin.civix.mx
   - name: Analisis CIVIX
     url: https://analisis.civix.mx
   - name: Sitio CIC
     url: https://cic.mx
   - name: Libres de Extorsion
     url: https://libresdeextorsion.mx
+  - name: DONA CIC
+    url: https://dona.cic.mx
+  - name: APOYA CIC
+    url: https://apoya.cic.mx
+  - name: Sitio CIVIX
+    url: https://civix.mx/home/
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
