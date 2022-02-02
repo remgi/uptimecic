@@ -18,10 +18,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "icon": "https://favicons.githubusercontent.com/en.wikipedia.org",
-    "slug": "wikipedia",
+    "name": "CRM CIVIX",
+    "url": "https://crm.civix.mx",
+    "icon": "https://favicons.githubusercontent.com/crm.civix.mx",
+    "slug": "crm-civix",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
@@ -37,22 +37,22 @@
   },
   {
     "name": "Analisis CIC",
-    "url": "https://analisis.cic.mx",
-    "icon": "https://favicons.githubusercontent.com/analisis.cic.mx",
+    "url": "https://analisis.civix.mx",
+    "icon": "https://favicons.githubusercontent.com/analisis.civix.mx",
     "slug": "analisis-cic",
-    "status": "down",
-    "uptime": "4.18%",
-    "uptimeDay": "4.18%",
-    "uptimeWeek": "4.18%",
-    "uptimeMonth": "4.18%",
-    "uptimeYear": "4.18%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "2.37%",
+    "uptimeDay": "2.37%",
+    "uptimeWeek": "2.37%",
+    "uptimeMonth": "2.37%",
+    "uptimeYear": "2.37%",
+    "time": 297,
+    "timeDay": 297,
+    "timeWeek": 297,
+    "timeMonth": 297,
+    "timeYear": 297,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-02": 3
     }
   },
   {
@@ -61,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/cic.mx",
     "slug": "sitio-cic",
     "status": "down",
-    "uptime": "8.82%",
-    "uptimeDay": "8.82%",
-    "uptimeWeek": "8.82%",
-    "uptimeMonth": "8.82%",
-    "uptimeYear": "8.82%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-02": 3
     }
   }
 ]
