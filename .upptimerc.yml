@@ -1,6 +1,6 @@
 # Change these first
 owner: remgi # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+repo: uptimecic # The name of this repository
 
 sites:
   - name: Google
@@ -21,6 +21,8 @@ sites:
     url: https://apoya.cic.mx
   - name: Sitio CIVIX
     url: https://civix.mx/home/
+  - name: Reportar CIC
+    url: https://reportar.cic.mx
     
 assignees:
   - remgi
@@ -29,7 +31,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: remgi.github.io
-  baseUrl: /uptimecic
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CIC Pages Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
