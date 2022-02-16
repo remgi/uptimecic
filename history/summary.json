@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/crm.civix.mx",
     "slug": "crm-civix",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 247,
     "timeDay": 236,
     "timeWeek": 238,
     "timeMonth": 247,
     "timeYear": 247,
-    "dailyMinutesDown": {
-      "2022-02-16": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ADMIN CIVIX",
@@ -158,9 +156,9 @@
     "url": "https://civix.mx/home/",
     "icon": "https://favicons.githubusercontent.com/civix.mx",
     "slug": "sitio-civix",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
@@ -170,6 +168,7 @@
     "timeMonth": 2826,
     "timeYear": 2826,
     "dailyMinutesDown": {
+      "2022-02-16": 0,
       "2022-02-04": 19
     }
   },
