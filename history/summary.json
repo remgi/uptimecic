@@ -125,11 +125,11 @@
     "icon": "https://favicons.githubusercontent.com/dona.cic.mx",
     "slug": "dona-cic",
     "status": "up",
-    "uptime": "91.27%",
+    "uptime": "91.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "89.39%",
-    "uptimeYear": "91.27%",
+    "uptimeYear": "91.28%",
     "time": 273,
     "timeDay": 281,
     "timeWeek": 390,
@@ -148,9 +148,9 @@
     "url": "https://apoya.cic.mx",
     "icon": "https://favicons.githubusercontent.com/apoya.cic.mx",
     "slug": "apoya-cic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.93%",
@@ -160,6 +160,7 @@
     "timeMonth": 325,
     "timeYear": 314,
     "dailyMinutesDown": {
+      "2022-03-12": 0,
       "2022-02-17": 19,
       "2022-02-04": 19
     }
