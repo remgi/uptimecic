@@ -1,7 +1,7 @@
 url: https://cic.mx
-status: down
-code: 500
-responseTime: 302
-lastUpdated: 2022-04-26T13:48:58.205Z
+status: up
+code: 200
+responseTime: 1025
+lastUpdated: 2022-04-26T13:59:41.409Z
 startTime: Wed Feb 02 2022 04:09:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
